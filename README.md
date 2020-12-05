@@ -58,8 +58,6 @@
 
 # heroku local
 
-# git push heroku master:main
-
 # delete dbsqlite file and run makemigration and migrate
 
 # git push heroku master:main
